@@ -1,2 +1,2 @@
 # vives-machine-learning-project
-Assignment for students who follow the Machine Learning Fundamentals course at Vives
+Notebooks and datasets for the assignment that is part of the Machine Learning Fundamentals course at Vives.
